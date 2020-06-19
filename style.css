@@ -1,0 +1,44 @@
+body{
+    font: 20px Montserrat,sans-serif;
+    line-height: 1.8;
+    color: #2e78c2;
+}
+.navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    margin-bottom: 0;
+    font-size: 1rem;
+    letter-spacing: 5px;
+    border-radius: 0;
+}
+.navbar-nav li a:hover{
+    color: #1abc9c !important;
+    font-weight: bold;
+
+} 
+.bg-1{
+    background-color: #1abc9c;
+    color:#ffffff ;
+}
+.bg-2{
+    background-color: #474e5d;
+    color: #ffffff;
+}
+.bg-3{
+    background-color: #ffffff;
+    color: #474e47;
+}
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.margin{
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+
+  .nav-link.active {
+    color:#1abc9c !important;
+  }
